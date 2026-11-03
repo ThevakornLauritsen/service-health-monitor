@@ -1,0 +1,14 @@
+{
+  "services": [
+    {
+      "name": "HTTPBin Success",
+      "url": "https://httpbin.org/status/200",
+      "timeout": 5
+    },
+    {
+      "name": "HTTPBin Not Found",
+      "url": "https://httpbin.org/status/404",
+      "timeout": 5
+    }
+  ]
+}
