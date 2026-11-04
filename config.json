@@ -10,5 +10,10 @@
       "url": "https://httpbin.org/status/404",
       "timeout": 5
     }
+    {
+      "name": "HTTPBin Service Unavailable",
+      "url": "https://httpbin.org/status/503",
+      "timeout": 5
+    }
   ]
 }
